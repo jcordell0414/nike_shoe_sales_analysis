@@ -107,7 +107,7 @@ Two dashboards published to Tableau Public.
 - Air Jordan 10 Retro leads all products in review count (223)
 - Products without a listed price outperform listed products on both rating and review volume
 
-> Tableau Public link: *(https://public.tableau.com/app/profile/jace.cordell/vizzes)*
+> [Tableau Public](https://public.tableau.com/app/profile/jace.cordell/vizzes)
 
 ---
 
