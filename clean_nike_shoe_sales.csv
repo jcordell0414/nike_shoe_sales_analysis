@@ -1,0 +1,556 @@
+,product_name,product_id,listing_price,sale_price,brand,rating,reviews,is_rated,has_msrp,shoe_line,price_tier
+0,Nike Air Force 1 '07 Essential,CJ1646-600,0.0,74.95,Nike,0.0,0,False,False,Air Force,Mid
+1,Nike Air Force 1 '07,CT4328-101,0.0,74.95,Nike,0.0,0,False,False,Air Force,Mid
+2,Nike Air Force 1 Sage Low LX,CI3482-200,0.0,99.95,Nike,0.0,0,False,False,Air Force,Mid
+3,Nike Air Max Dia SE,CD0479-200,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+4,Nike Air Max Verona,CZ6156-101,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+5,Nike Free Metcon 3,CJ6314-146,0.0,99.95,Nike,0.0,0,False,False,Metcon,Mid
+6,NikeCourt Blanc,CI0808-100,0.0,59.95,Nike,0.0,0,False,False,Court,Budget
+7,Nike Free Metcon 3,CJ0861-017,0.0,99.95,Nike,5.0,1,True,False,Metcon,Mid
+8,Nike Zoom Pegasus Turbo 2,AT8242-009,0.0,159.95,Nike,2.7,14,True,False,Pegasus,Premium
+9,Nike Air Max 270 React ENG,CK2595-500,0.0,149.95,Nike,5.0,2,True,False,Air Max,Premium
+10,Nike Air Max 90,CD0490-104,0.0,99.95,Nike,5.0,9,True,False,Air Max,Mid
+11,Nike Air Force 1 '07,315115-112,0.0,74.95,Nike,4.5,67,True,False,Air Force,Mid
+12,Jordan Air Max 200 XX,AV5186-101,0.0,104.95000000000002,Nike,0.0,0,False,False,Air Max,Mid
+13,Nike SuperRep Go,CJ0860-668,0.0,79.95,Nike,0.0,0,False,False,Other,Mid
+14,Nike Air VaporMax Flyknit 3,AJ6910-009,0.0,169.95,Nike,4.4,48,True,False,Flyknit,Premium
+15,Nike Air Zoom SuperRep,BQ7043-668,0.0,99.95,Nike,4.4,34,True,False,Zoom,Mid
+16,Nike Air Max 270 React ENG,CK2608-100,0.0,149.95,Nike,0.0,0,False,False,Air Max,Premium
+17,Nike Air Max 97,921733-104,0.0,169.95,Nike,4.3,16,True,False,Air Max,Premium
+18,Nike Air Force 1 '07,CJ1379-001,0.0,79.95,Nike,0.0,0,False,False,Air Force,Mid
+19,Nike Court Vintage Premium,CT1726-100,0.0,54.949999999999996,Nike,0.0,0,False,False,Court,Budget
+20,Nike Air Max 97,CT4525-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+21,Nike SB Bruin High,923112-001,79.95,55.97,Nike,4.2,6,True,True,SB,Budget
+22,Air Jordan XXXIV PF,BQ3381-600,0.0,149.95,Nike,5.0,2,True,False,Jordan,Premium
+23,Nike Metcon 5,AO2982-076,0.0,109.94999999999999,Nike,4.4,22,True,False,Metcon,Mid
+24,Nike React Phantom Run Flyknit 2,CJ0277-002,0.0,119.95,Nike,0.0,0,False,False,React,Mid
+25,Nike Joyride Run Flyknit,AQ2730-009,0.0,149.95,Nike,4.0,65,True,False,Flyknit,Premium
+26,Nike Air Max 90,CT1030-100,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+27,Nike Air VaporMax 360,CK9671-001,0.0,189.95,Nike,4.0,1,True,False,VaporMax,Premium
+28,Nike Offcourt,BQ4632-602,0.0,24.95,Nike,4.3,4,True,False,Other,Budget
+29,Nike React Phantom Run Flyknit 2,CJ0280-001,0.0,119.95,Nike,0.0,0,False,False,React,Mid
+30,Jordan Break,AR6374-402,0.0,19.95,Nike,4.2,5,True,False,Jordan,Budget
+31,LeBron 7 QS,CU5646-001,0.0,169.95,Nike,5.0,1,True,False,NBA,Premium
+32,Nike In-Season TR 9,AR4543-013,0.0,59.95,Nike,4.9,7,True,False,Other,Budget
+33,Nike Joyride Run FlyKnit,CI3707-100,159.95,119.97,Nike,0.0,0,False,True,Joyride,Mid
+34,Nike ZoomX Vista Grind,CQ9500-100,0.0,139.95,Nike,0.0,0,False,False,Zoom,Premium
+35,Nike Air Force 1 Sage Low,CJ1642-002,0.0,89.95,Nike,0.0,0,False,False,Air Force,Mid
+36,Nike Air Force 1 '07 LV8,CD0888-002,0.0,75.95,Nike,5.0,3,True,False,Air Force,Mid
+37,Nike Air Max 720,CI3868-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+38,Nike Air Max Dia,CJ0636-100,0.0,89.95,Nike,1.0,1,True,False,Air Max,Mid
+39,Air Jordan 1 Mid SE,852542-087,0.0,99.95,Nike,4.8,13,True,False,Jordan,Mid
+40,Nike Daybreak,CK2351-601,0.0,79.95,Nike,4.9,7,True,False,Other,Mid
+41,Nike SB Shane,BV0657-400,0.0,64.95,Nike,4.7,3,True,False,SB,Mid
+42,Nike Mercurial Vapor 13 Club Neymar Jr. TF,AT8000-104,0.0,54.949999999999996,Nike,0.0,0,False,False,Mercurial,Budget
+43,Air Jordan 1 Mid,554724-066,0.0,99.95,Nike,4.5,61,True,False,Jordan,Mid
+44,Nike Air Max 270 React,CJ0619-100,0.0,129.95,Nike,0.0,0,False,False,Air Max,Premium
+45,Nike Air Max 98,CJ0592-001,0.0,169.95,Nike,0.0,0,False,False,Air Max,Premium
+46,Nike Joyride Dual Run Premium,CT3867-001,0.0,119.95,Nike,0.0,0,False,False,Joyride,Mid
+47,Nike Free RN Flyknit 3.0 2020,CJ0267-001,0.0,109.94999999999999,Nike,0.0,0,False,False,Free,Mid
+48,Nike Mercurial Vapor 13 Club Neymar Jr IC,AT7998-104,0.0,54.949999999999996,Nike,0.0,0,False,False,Mercurial,Budget
+49,Nike Mercurial Vapor 13 Elite Neymar Jr. FG,AT7898-104,0.0,229.95000000000002,Nike,0.0,0,False,False,Mercurial,Luxury
+50,PG 4 EP,CD5086-500,0.0,89.95,Nike,0.0,0,False,False,NBA,Mid
+51,Air Max 97 LX,CJ0625-700,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+52,Nike Air Max 90,CT4352-104,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+53,Jordan 'Why Not?' Zer0.3 PF,CD3002-103,0.0,109.94999999999999,Nike,5.0,2,True,False,Jordan,Mid
+54,Nike Air Zoom SuperRep,CD3460-010,0.0,99.95,Nike,4.5,31,True,False,Zoom,Mid
+55,Nike Metcon 5 AMP,CD3395-006,0.0,119.95,Nike,5.0,2,True,False,Metcon,Mid
+56,Nike Air Max Tailwind 99,CQ6569-001,159.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+57,Nike Mercurial Vapor 13 Club IC,AT7997-606,0.0,49.95,Nike,0.0,0,False,False,Mercurial,Budget
+58,Nike Air Max 97,CI3708-700,0.0,149.95,Nike,5.0,1,True,False,Air Max,Premium
+59,Nike Air Max Triax,CT1104-700,0.0,109.94999999999999,Nike,0.0,0,False,False,Air Max,Mid
+60,LeBron 17 Low,CD5007-102,0.0,139.95,Nike,3.0,2,True,False,NBA,Premium
+61,Nike Mercurial Vapor 13 Academy Neymar Jr. TF,AT7995-104,0.0,79.95,Nike,0.0,0,False,False,Mercurial,Mid
+62,Nike Air Max 2090,BV9977-101,0.0,119.95,Nike,0.0,0,False,False,Air Max,Mid
+63,Nike Renew Fusion,CD0200-003,0.0,69.95,Nike,5.0,1,True,False,Renew,Mid
+64,LeBron 17,BQ3177-100,0.0,169.95,Nike,4.5,47,True,False,NBA,Premium
+65,Nike Air Max 720 OBJ Slip,DA4155-400,0.0,169.95,Nike,0.0,0,False,False,Air Max,Premium
+66,Nike SuperRep Go,CJ0773-010,0.0,79.95,Nike,0.0,0,False,False,Other,Mid
+67,Nike Air Max 90 Premium,CQ0912-100,0.0,119.95,Nike,5.0,2,True,False,Air Max,Mid
+68,Nike Mercurial Superfly 7 Elite SE FG,CT1099-093,0.0,249.95,Nike,0.0,0,False,False,Mercurial,Luxury
+69,Nike Epic Phantom React A.I.R. Cody Hudson,CI1718-001,139.95,83.97,Nike,5.0,2,True,True,React,Mid
+70,Nike Air Max 90,CD0490-101,0.0,99.95,Nike,5.0,9,True,False,Air Max,Mid
+71,Nike Mercurial Superfly 7 Club TF,AT7980-606,0.0,59.95,Nike,0.0,0,False,False,Mercurial,Budget
+72,Nike Zoom Gravity,BQ3202-011,0.0,79.95,Nike,3.1,8,True,False,Zoom,Mid
+73,Nike Air Max 270 React ENG,CD0113-400,0.0,149.95,Nike,5.0,1,True,False,Air Max,Premium
+74,Nike Air Force 1 Type,CQ2344-100,0.0,119.95,Nike,0.0,0,False,False,Air Force,Mid
+75,Nike Air Max 270 React,AO4971-700,129.95,77.97,Nike,3.9,33,True,True,Air Max,Mid
+76,Nike React Presto,AV2605-101,99.95,59.97,Nike,3.7,27,True,True,React,Budget
+77,Nike Legend React,AA1625-009,0.0,87.95,Nike,4.2,9,True,False,React,Mid
+78,Air Jordan 1 Low SE,CK3022-005,0.0,89.95,Nike,0.0,0,False,False,Jordan,Mid
+79,NikeCourt Air Max Wildcard,AO7351-104,0.0,79.95,Nike,2.7,3,True,False,Air Max,Mid
+80,Nike Blazer Low,AJ9515-001,0.0,69.95,Nike,0.0,0,False,False,Blazer,Mid
+81,Zoom LeBron 3 QS,AO2434-101,0.0,149.95,Nike,0.0,0,False,False,Zoom,Premium
+82,Nike Free Metcon 3,CJ0861-010,0.0,99.95,Nike,5.0,1,True,False,Metcon,Mid
+83,KD Trey 5 VII EP,AT1198-401,0.0,79.95,Nike,0.0,0,False,False,NBA,Mid
+84,Nike Mercurial Vapor 13 Academy TF,AT7996-606,0.0,74.95,Nike,0.0,0,False,False,Mercurial,Mid
+85,Jordan React Havoc SE,CK2772-101,0.0,109.94999999999999,Nike,0.0,0,False,False,Jordan,Mid
+86,Nike SB Air Max Stefan Janoski 2,AQ7477-009,0.0,99.95,Nike,2.6,11,True,False,Air Max,Mid
+87,Nike Free RN Flyknit 3.0,AQ5707-001,109.94999999999999,76.97,Nike,3.9,10,True,True,Free,Mid
+88,Nike ISPA Joyride Envelope,BV4584-001,169.95,135.97,Nike,5.0,2,True,True,Joyride,Premium
+89,Nike Mercurial Superfly 7 Elite SE FG,CD6721-808,0.0,229.95000000000002,Nike,0.0,0,False,False,Mercurial,Luxury
+90,Nike Phantom Venom Academy FG,AO0566-606,0.0,74.95,Nike,2.8,5,True,False,Phantom,Mid
+91,Nike Air Ghost Racer,AT5410-003,99.95,69.97,Nike,4.5,2,True,True,Air,Mid
+92,Nike ACG Air Terra Antarktik,BV6348-300,0.0,159.95,Nike,2.6,20,True,False,Air,Premium
+93,Nike Air Max 2 Light,CI3703-401,119.95,95.97,Nike,0.0,0,False,True,Air Max,Mid
+94,Nike Mercurial Superfly 7 Academy MG,AT7946-414,0.0,84.95,Nike,5.0,2,True,False,Mercurial,Mid
+95,Nike AlphaDunk,BQ5401-001,159.95,111.97,Nike,2.9,12,True,True,Other,Mid
+96,Nike Daybreak SP,BV7725-500,79.95,47.97,Nike,5.0,3,True,True,Other,Budget
+97,Nike x MMW Joyride CC3 Setter,CU7623-002,0.0,169.95,Nike,3.5,2,True,False,Joyride,Premium
+98,Nike Air Max 95 SP,CK5669-400,159.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+99,Nike SB Blazer Low GT,704939-103,0.0,69.95,Nike,4.3,8,True,False,Blazer,Mid
+100,LeBron 17 Monstars,CD5050-400,0.0,169.95,Nike,4.6,5,True,False,NBA,Premium
+101,Kyrie 5 x Bandulu,CK5836-100,109.94999999999999,87.97,Nike,5.0,1,True,True,NBA,Mid
+102,Nike Air Max Impact,CI1396-600,0.0,79.95,Nike,5.0,1,True,False,Air Max,Mid
+103,Nike Air Max 90 QS,CD0916-001,0.0,119.95,Nike,5.0,1,True,False,Air Max,Mid
+104,Nike React Element 55 SE,BV1507-001,109.94999999999999,65.97,Nike,4.8,5,True,True,React,Mid
+105,Jordan Proto-Max 720,BQ6623-070,159.95,127.97,Nike,4.4,18,True,True,Jordan,Premium
+106,Nike Phantom Vision 2 Academy Dynamic Fit MG,CD4156-606,0.0,84.95,Nike,0.0,0,False,False,Phantom,Mid
+107,Nike React Element 55 SE,CI3831-200,109.94999999999999,65.97,Nike,4.0,1,True,True,React,Mid
+108,Nike Air Max2 Light,AO1741-003,119.95,83.97,Nike,3.7,3,True,True,Air Max,Mid
+109,Nike Air Max 270,AH8050-100,0.0,139.95,Nike,3.8,81,True,False,Air Max,Premium
+110,Nike Phantom Vision 2 Club Dynamic Fit MG,CD4159-606,0.0,59.95,Nike,0.0,0,False,False,Phantom,Budget
+111,Nike Air Force 1 '07 LV8,CK4363-100,0.0,75.95,Nike,5.0,6,True,False,Air Force,Mid
+112,Nike Air Max 90,CN8490-100,0.0,99.95,Nike,5.0,3,True,False,Air Max,Mid
+113,Nike Free RN 5.0 2020,CI9921-001,0.0,79.95,Nike,0.0,0,False,False,Free,Mid
+114,Nike Phantom Vision Academy Dynamic Fit TF,AO3269-717,84.95,59.47,Nike,4.0,3,True,True,Phantom,Budget
+115,Nike ACG MOC 3.0,CI9367-301,0.0,79.95,Nike,3.5,2,True,False,Other,Mid
+116,Nike Mercurial Vapor 13 Academy Neymar Jr. MG,AT7960-104,0.0,79.95,Nike,0.0,0,False,False,Mercurial,Mid
+117,Nike Air DSVM,AT8179-100,159.95,95.97,Nike,4.4,7,True,True,Air,Mid
+118,Nike x Carhartt WIP Air Max 95,AV3866-001,0.0,169.95,Nike,5.0,1,True,False,Air Max,Premium
+119,Nike Odyssey React Flyknit 2,AH1015-010,99.95,69.97,Nike,4.0,25,True,True,React,Mid
+120,Nike Tiempo Legend 8 Elite FG,AT5293-004,0.0,209.95,Nike,3.1,7,True,False,Tiempo,Luxury
+121,Nike Mercurial Superfly 7 Club MG,AT7949-606,0.0,59.95,Nike,0.0,0,False,False,Mercurial,Budget
+122,Nike Joyride CC3 Setter,AT6395-002,149.95,104.97000000000001,Nike,4.0,6,True,True,Joyride,Mid
+123,Nike Renew Run,CK6357-005,0.0,69.95,Nike,4.3,12,True,False,Renew,Mid
+124,Nike React Ianga,AV5555-001,109.94999999999999,87.97,Nike,4.3,9,True,True,React,Mid
+125,Air Jordan 10 Retro,310805-137,0.0,159.95,Nike,4.7,223,True,False,Jordan,Premium
+126,Air Jordan 12 Retro,130690-017,0.0,159.95,Nike,4.5,24,True,False,Jordan,Premium
+127,Nike Air Max 270 React,CT1264-101,0.0,129.95,Nike,4.0,1,True,False,Air Max,Premium
+128,Nike Air Max 200 SP,CK5668-600,119.95,83.97,Nike,0.0,0,False,True,Air Max,Mid
+129,Nike Mercurial Superfly 7 Academy MDS MG,BQ5427-401,0.0,89.95,Nike,0.0,0,False,False,Mercurial,Mid
+130,Nike Air Zoom Winflo 6,AQ7497-300,0.0,79.95,Nike,5.0,3,True,False,Zoom,Mid
+131,Nike Air Max 97,CT4526-100,0.0,159.95,Nike,5.0,1,True,False,Air Max,Premium
+132,Nike Mercurial Vapor XII Club MG,AH7378-801,49.95,39.97,Nike,0.0,0,False,True,Mercurial,Budget
+133,Nike Zoom Fly 3 Premium,CJ0404-001,0.0,149.95,Nike,0.0,0,False,False,Zoom,Premium
+134,Nike MX-720-818,CI3871-300,0.0,159.95,Nike,4.4,5,True,False,MX,Premium
+135,Nike React Element 55,BQ2728-012,0.0,119.95,Nike,3.9,17,True,False,React,Mid
+136,Nike SB Charge Slip Premium,CT3110-400,0.0,54.949999999999996,Nike,0.0,0,False,False,SB,Budget
+137,Nike Free RN 5.0 2020,CJ0270-601,0.0,79.95,Nike,0.0,0,False,False,Free,Mid
+138,Nike ZoomX Vista Grind,CT8919-700,0.0,139.95,Nike,4.5,2,True,False,Zoom,Premium
+139,Nike Air Force 1 React,CT1020-001,0.0,99.95,Nike,0.0,0,False,False,Air Force,Mid
+140,PG 4 EP,CD5082-001,0.0,89.95,Nike,4.5,2,True,False,NBA,Mid
+141,Nike Air Zoom Pegasus 36,BV5739-500,109.94999999999999,76.97,Nike,4.7,3,True,True,Pegasus,Mid
+142,Nike Air Max 2090,CW4286-100,0.0,119.95,Nike,0.0,0,False,False,Air Max,Mid
+143,Nike Air Force 1 '07 LV8,CD0887-201,0.0,79.95,Nike,5.0,3,True,False,Air Force,Mid
+144,Kyrie 6 AS EP,CD5028-900,0.0,109.94999999999999,Nike,0.0,0,False,False,NBA,Mid
+145,Nike Air VaporMax Flyknit 3,AJ6900-102,0.0,169.95,Nike,3.7,50,True,False,Flyknit,Premium
+146,Nike Air Max Verona,CI9842-500,0.0,99.95,Nike,5.0,2,True,False,Air Max,Mid
+147,Nike Air Force 1 Shadow,CI0919-100,0.0,89.95,Nike,4.8,20,True,False,Air Force,Mid
+148,Nike Air Max Verona,CK7200-800,0.0,109.94999999999999,Nike,0.0,0,False,False,Air Max,Mid
+149,Nike Air Tailwind 79,487754-303,0.0,79.95,Nike,3.9,17,True,False,Air,Mid
+150,Nike TiempoX Lunar Legend VII Pro TF,AH7249-118,89.95,71.97,Nike,3.0,1,True,True,Tiempo,Mid
+151,Nike Air Max Plus III,CJ9684-001,159.95,111.97,Nike,5.0,2,True,True,Air Max,Mid
+152,Nike Zoom 2K,AO0354-108,0.0,69.95,Nike,4.9,8,True,False,Zoom,Mid
+153,Nike Zoom Pegasus Turbo 2,AT2863-100,0.0,159.95,Nike,3.1,54,True,False,Pegasus,Premium
+154,Nike Kawa Shower,832528-001,0.0,15.950000000000001,Nike,4.5,6,True,False,Other,Budget
+155,Nike React Infinity Run Flyknit,CD4371-001,0.0,139.95,Nike,4.6,68,True,False,React,Premium
+156,Air Jordan XXXIII,AQ8830-016,189.95,151.97,Nike,4.1,17,True,True,Jordan,Premium
+157,Nike Odyssey React,AO9819-001,119.95,96.37,Nike,4.4,27,True,True,React,Mid
+158,Nike Air Max 1 DNA Ch. 1,AR3863-101,0.0,129.95,Nike,0.0,0,False,False,Air Max,Premium
+159,Nike Joyride Flyknit AW,CI3706-100,159.95,119.97,Nike,0.0,0,False,True,Flyknit,Mid
+160,Nike Legend React 2,AT1369-103,0.0,79.95,Nike,0.0,0,False,False,React,Mid
+161,Nike Metcon 5,AQ1189-009,0.0,109.94999999999999,Nike,3.7,31,True,False,Metcon,Mid
+162,LeBron 7,CU5133-600,169.95,135.97,Nike,4.4,7,True,True,NBA,Premium
+163,Nike Air VaporMax 360,CK9670-100,0.0,189.95,Nike,0.0,0,False,False,VaporMax,Premium
+164,Nike Blazer Low QS Flyleather with at least 50% leather fibre,CI5546-100,0.0,64.95,Nike,2.0,2,True,False,Blazer,Mid
+165,Nike SB Dunk High Pro,BQ6826-003,0.0,89.95,Nike,4.8,4,True,False,SB,Mid
+166,Nike Air Max 90 FlyEase,CU0814-102,0.0,99.95,Nike,4.0,1,True,False,Air Max,Mid
+168,Nike M2K Tekno,AV4789-104,89.95,71.97,Nike,4.4,7,True,True,Other,Mid
+169,Nike React Kenny 55,CJ3312-001,0.0,129.95,Nike,5.0,1,True,False,React,Premium
+170,Nike Air VaporMax 2019,AR6631-004,159.95,127.97,Nike,3.8,24,True,True,VaporMax,Premium
+171,Nike React Element 55,BQ6166-003,119.95,71.97,Nike,3.7,31,True,True,React,Mid
+172,Nike Air Force 1 Low Retro,CQ0492-001,0.0,109.94999999999999,Nike,4.5,2,True,False,Air Force,Mid
+173,NikeCourt Zoom Cage 3,918193-700,0.0,134.95,Nike,3.6,20,True,False,Zoom,Premium
+174,Nike Air Max 90 Print,AQ0926-001,0.0,129.95,Nike,0.0,0,False,False,Air Max,Premium
+175,Nike Metcon Sport,AQ7489-008,0.0,79.95,Nike,3.6,14,True,False,Metcon,Mid
+176,Jordan Mars 270,CD7070-009,0.0,149.95,Nike,4.6,15,True,False,Jordan,Premium
+177,Nike Air Zoom Vomero 14,AH7857-009,0.0,119.95,Nike,4.2,23,True,False,Zoom,Mid
+178,Nike Air Max 720,CT5229-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+179,Nike Mercurial Vapor 13 Academy MDS IC,CJ1300-401,74.95,52.46999999999999,Nike,0.0,0,False,True,Mercurial,Budget
+180,Nike Zoom Fly,880848-005,0.0,144.95,Nike,4.3,105,True,False,Zoom,Premium
+181,Nike Zoom Fly 3,AT8240-003,0.0,139.95,Nike,4.0,30,True,False,Zoom,Premium
+182,Nike Air Zoom Pegasus 35,942851-002,0.0,109.94999999999999,Nike,3.9,61,True,False,Pegasus,Mid
+183,Nike Air Zoom Pegasus 36 Trail,AR5677-200,0.0,109.94999999999999,Nike,4.6,12,True,False,Pegasus,Mid
+184,KD13 EP,CI9949-001,0.0,129.95,Nike,0.0,0,False,False,NBA,Premium
+185,Nike Phantom Vision Club Dynamic Fit FG,AJ6959-717,59.95,44.97,Nike,5.0,1,True,True,Phantom,Budget
+186,Nike Air Monarch IV,415445-102,0.0,52.95000000000001,Nike,4.1,94,True,False,Air,Budget
+187,Zoom Freak 1,BQ5422-200,0.0,99.95,Nike,4.2,30,True,False,Zoom,Mid
+188,Nike Mercurial Superfly 7 Academy IC,AT7975-606,0.0,84.95,Nike,5.0,1,True,False,Mercurial,Mid
+189,Air Jordan 1 Low,553558-125,0.0,89.95,Nike,4.6,34,True,False,Jordan,Mid
+190,Nike Air Max 95 Print,AQ0925-002,0.0,169.95,Nike,0.0,0,False,False,Air Max,Premium
+191,Nike P-6000,CD6404-800,79.95,47.97,Nike,0.0,0,False,True,Other,Budget
+192,Nike Mercurial Vapor 13 Elite FG,AQ4176-049,0.0,219.95,Nike,3.5,4,True,False,Mercurial,Luxury
+193,Nike SB Adversary Premium,CT3632-001,0.0,79.95,Nike,0.0,0,False,False,SB,Mid
+194,Nike Air VaporMax 360,CK2718-003,0.0,189.95,Nike,4.1,10,True,False,VaporMax,Premium
+195,Nike Air Max 720,AO2924-401,159.95,127.97,Nike,4.2,62,True,True,Air Max,Premium
+196,Nike Zoom KD12,AR4229-003,0.0,129.95,Nike,4.6,18,True,False,Zoom,Premium
+197,Nike Free X Metcon 2,AQ8306-407,99.95,79.97,Nike,3.4,23,True,True,Metcon,Mid
+198,Nike Air Max 90,CD0881-104,0.0,99.95,Nike,4.7,9,True,False,Air Max,Mid
+199,Air Jordan 4 Retro SE,CT5342-007,0.0,189.95,Nike,4.8,11,True,False,Jordan,Premium
+200,Nike Air Max 95 Essential,CI3705-600,139.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+201,Nike SB Zoom Stefan Janoski Canvas RM Premium,AQ7878-003,0.0,79.95,Nike,1.0,1,True,False,Zoom,Mid
+202,Nike Phantom Venom Academy IC,AO0570-810,74.95,52.46999999999999,Nike,0.0,0,False,True,Phantom,Budget
+203,Nike Air Max 270 React,CT5528-001,149.95,89.97,Nike,0.0,0,False,True,Air Max,Mid
+204,Nike Zoom Rival Fly,CD7288-001,79.95,63.96999999999999,Nike,5.0,1,True,True,Zoom,Mid
+205,Nike Mercurial Superfly 7 Academy MDS TF,BQ5435-703,0.0,89.95,Nike,0.0,0,False,False,Mercurial,Mid
+206,Nike Pegasus 36 FlyEase (Extra Wide),BV0612-001,0.0,99.95,Nike,3.0,4,True,False,Pegasus,Mid
+207,Nike ISPA Air Max 720,CD2182-001,179.95,143.97,Nike,3.0,4,True,True,Air Max,Premium
+208,Air Jordan OG,133000-106,0.0,119.95,Nike,0.0,0,False,False,Jordan,Mid
+209,Nike Air Max 270 React ENG,CJ0579-400,0.0,149.95,Nike,0.0,0,False,False,Air Max,Premium
+210,Nike Epic Phantom React Flyknit,BV0417-401,129.95,77.97,Nike,4.4,12,True,True,React,Mid
+211,Nike Air Zoom Pegasus 36,AQ2203-003,0.0,99.95,Nike,3.6,23,True,False,Pegasus,Mid
+212,Jordan Aerospace 720,BV5502-600,0.0,169.95,Nike,5.0,1,True,False,Jordan,Premium
+213,Nike Air Max Plus III,CD7005-001,0.0,159.95,Nike,5.0,1,True,False,Air Max,Premium
+214,Jordan Hydro 8,CD2803-001,0.0,39.95,Nike,4.0,1,True,False,Jordan,Budget
+215,Nike x Undercover React,CJ6971-001,169.95,135.97,Nike,3.7,3,True,True,React,Premium
+216,Nike Air Max 90/1,AJ7695-100,0.0,149.95,Nike,0.0,0,False,False,Air Max,Premium
+217,Nike Air Max 98,640744-016,169.95,101.97,Nike,4.1,9,True,True,Air Max,Mid
+218,Nike Air Max 200,AQ2568-100,99.95,59.97,Nike,4.5,13,True,True,Air Max,Budget
+219,Nike Air Max 90,CT2007-100,0.0,99.95,Nike,5.0,1,True,False,Air Max,Mid
+220,Nike Air Max 270 React,CI3866-100,0.0,129.95,Nike,0.0,0,False,False,Air Max,Premium
+221,Nike Air Max 1 Premium,CU8861-460,0.0,119.95,Nike,0.0,0,False,False,Air Max,Mid
+222,Nike Tiempo Legend 8 Club MG,AT6107-606,0.0,44.95,Nike,0.0,0,False,False,Tiempo,Budget
+223,Nike Air Zoom Terra Kiger 6,CJ0219-400,0.0,109.94999999999999,Nike,5.0,2,True,False,Zoom,Mid
+224,Nike Air Max 97 Utility,BQ5615-002,159.95,111.97,Nike,5.0,1,True,True,Air Max,Mid
+225,Jordan Jumpman 2020 PF,BQ3448-400,0.0,89.95,Nike,5.0,2,True,False,Jordan,Mid
+226,Nike ACG React Terra Gobe,BV6344-001,129.95,77.97,Nike,3.7,19,True,True,React,Mid
+227,Nike Air Max 90 SP,CQ6639-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+228,Nike Air Force 1 '07 Essential,AO2132-401,79.95,55.97,Nike,4.4,5,True,True,Air Force,Budget
+229,Nike Joyride Dual Run,CD4363-103,0.0,109.94999999999999,Nike,4.8,5,True,False,Joyride,Mid
+230,Jordan Proto-React Z,CI3794-600,139.95,111.97,Nike,4.6,5,True,True,Jordan,Mid
+231,Nike Air Max 270 React LX,CK4126-001,139.95,83.97,Nike,0.0,0,False,True,Air Max,Mid
+232,Nike AF-1 Shadow SE,CQ3317-001,0.0,99.95,Nike,0.0,0,False,False,Air Force,Mid
+233,NikeCourt Air Zoom Vapor X,AA8030-108,0.0,149.95,Nike,3.3,13,True,False,Zoom,Premium
+234,Nike Bella Kai,AO3622-006,0.0,19.95,Nike,0.0,0,False,False,Other,Budget
+235,Nike Mercurial Vapor 13 Club Neymar Jr. MG,AT7967-104,0.0,54.949999999999996,Nike,0.0,0,False,False,Mercurial,Budget
+241,Nike Benassi,343881-412,0.0,24.95,Nike,4.3,12,True,False,Benassi,Budget
+242,Nike Air Max Dia Icon Clash,AQ4312-107,89.95,53.97,Nike,4.6,23,True,True,Air Max,Budget
+244,LeBron Witness 4 EP,CD0188-101,0.0,79.95,Nike,0.0,0,False,False,NBA,Mid
+245,Nike Air Zoom Winflo 5,AA7406-006,79.95,63.96999999999999,Nike,3.0,6,True,True,Zoom,Mid
+246,Nike Air Max 90,CD0917-300,119.95,71.97,Nike,3.2,5,True,True,Air Max,Mid
+247,PG 3 NASA,CI2666-400,99.95,79.97,Nike,3.7,11,True,True,NBA,Mid
+248,Nike React Sertu,AT5301-003,0.0,129.95,Nike,5.0,2,True,False,React,Premium
+249,Nike React Element 55 SE,CD2153-001,0.0,109.94999999999999,Nike,5.0,1,True,False,React,Mid
+250,Nike SB Zoom Stefan Janoski Mid RM,AT7324-001,79.95,63.96999999999999,Nike,5.0,1,True,True,Zoom,Mid
+251,Nike Zoom Rival Fly 2,CJ0710-004,0.0,79.95,Nike,0.0,0,False,False,Zoom,Mid
+252,Nike Precision 4,CK1069-001,0.0,54.949999999999996,Nike,0.0,0,False,False,Other,Budget
+253,Nike Renew Run Special Edition,CT3509-001,0.0,79.95,Nike,0.0,0,False,False,Renew,Mid
+254,Kyrie Flytrap 3 EP,CD0191-009,0.0,64.95,Nike,0.0,0,False,False,NBA,Mid
+256,Nike Air Max Alpha Savage,AT3378-471,0.0,89.95,Nike,4.2,5,True,False,Air Max,Mid
+257,Jordan Max 200,CD6105-007,0.0,104.95000000000002,Nike,0.0,0,False,False,Jordan,Mid
+258,Nike React Vision,CD4373-001,0.0,109.94999999999999,Nike,4.7,3,True,False,React,Mid
+259,Nike Phantom Vision 2 Club Dynamic Fit TF,CD4173-606,0.0,59.95,Nike,0.0,0,False,False,Phantom,Budget
+260,Jordan Trunner NXT React,AV1201-600,0.0,119.95,Nike,5.0,3,True,False,Jordan,Mid
+261,Kyrie Low 2,AV6337-003,0.0,94.95,Nike,4.5,4,True,False,NBA,Mid
+262,Nike Zoom Pegasus Turbo 2,CN6928-300,0.0,159.95,Nike,4.0,4,True,False,Pegasus,Premium
+263,Nike React Infinity Run Flyknit,CD4372-004,0.0,139.95,Nike,4.2,29,True,False,React,Premium
+264,Nike Tiempo Legend 8 Academy MG,AT5292-606,0.0,64.95,Nike,2.0,1,True,False,Tiempo,Mid
+265,Kyrie 5,AQ2456-007,0.0,84.95,Nike,5.0,3,True,False,NBA,Mid
+266,Nike Flex 2020 RN,CJ0217-001,0.0,69.95,Nike,0.0,0,False,False,Flex,Mid
+267,Nike Air Force 1 '07,315122-001,0.0,72.95,Nike,4.5,78,True,False,Air Force,Mid
+268,Nike SB Chron Solarsoft Premium,CK0980-002,0.0,59.95,Nike,0.0,0,False,False,SB,Budget
+269,LeBron Soldier 13 SFG,AR4225-003,119.95,95.97,Nike,4.2,6,True,True,NBA,Mid
+270,NikeCourt Air Max Vapor Wing Premium,CT3890-101,0.0,79.95,Nike,0.0,0,False,False,Air Max,Mid
+271,Nike Mercurial Vapor 13 Club TF,AT7999-414,49.95,34.97,Nike,0.0,0,False,True,Mercurial,Budget
+272,Nike Phantom Vision 2 Elite Dynamic Fit FG,CD4161-606,0.0,229.95000000000002,Nike,5.0,1,True,False,Phantom,Luxury
+273,Nike Air Skarn,CD2189-002,99.95,69.97,Nike,4.5,2,True,True,Air,Mid
+274,Nike Air Max 270 SE,CD6615-100,0.0,139.95,Nike,5.0,1,True,False,Air Max,Premium
+275,Nike Zoom KD11 EP,AO2605-600,0.0,149.95,Nike,0.0,0,False,False,Zoom,Premium
+276,Nike SB Blazer Low XT,864348-019,79.95,63.96999999999999,Nike,5.0,2,True,True,Blazer,Mid
+277,Nike Air Max 720 Horizon,BQ5808-100,199.95,159.97,Nike,0.0,0,False,True,Air Max,Premium
+278,Nike React Metcon AMP,CN5501-046,0.0,139.95,Nike,0.0,0,False,False,React,Premium
+279,Nike Huarache Type,BQ5102-400,109.94999999999999,65.97,Nike,4.5,2,True,True,Other,Mid
+280,Nike Air Max 95 Premium,CJ0588-001,0.0,149.95,Nike,0.0,0,False,False,Air Max,Premium
+281,Nike Free RN 5.0,BV7774-100,89.95,62.970000000000006,Nike,0.0,0,False,True,Free,Mid
+282,Nike Zoom Vomero 5 SE SP,CI1694-300,139.95,111.97,Nike,5.0,1,True,True,Zoom,Mid
+283,Nike Benassi JDI,631261-035,0.0,27.949999999999996,Nike,3.0,5,True,False,Benassi,Budget
+284,Kyrie 6 'Enlightenment',BQ4630-500,109.94999999999999,87.97,Nike,4.4,10,True,True,NBA,Mid
+285,Nike Tiempo Legend 8 Academy IC,AT6099-606,0.0,64.95,Nike,5.0,1,True,False,Tiempo,Mid
+286,Nike Mercurial Vapor 13 Academy MG,AT5269-606,0.0,74.95,Nike,0.0,0,False,False,Mercurial,Mid
+287,Nike React Presto Premium,CN7664-800,0.0,109.94999999999999,Nike,5.0,1,True,False,React,Mid
+288,Zoom Freak 1 'Employee of the Month',CD4962-001,0.0,99.95,Nike,5.0,1,True,False,Zoom,Mid
+289,Nike ZoomX Vaporfly NEXT%,AO4568-600,0.0,199.95,Nike,4.7,45,True,False,Zoom,Premium
+290,Nike SB Check,705265-006,0.0,54.949999999999996,Nike,5.0,1,True,False,SB,Budget
+291,Nike Free RN Flyknit 3.0 2020,CJ0266-001,0.0,109.94999999999999,Nike,0.0,0,False,False,Free,Mid
+292,Nike Air Zoom Structure 22,AA1636-406,99.95,69.97,Nike,3.6,10,True,True,Zoom,Mid
+293,Nike Drop-Type Mid,BQ5190-101,69.95,48.97,Nike,5.0,1,True,True,Other,Budget
+294,Nike iSPA React,CT2692-002,0.0,139.95,Nike,4.6,14,True,False,React,Premium
+295,Nike PhantomVNM Club FG,AO0577-717,49.95,34.97,Nike,0.0,0,False,True,Phantom,Budget
+296,Nike Air Max 90,CU3005-171,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+297,NikeCourt Air Zoom Zero,AA8018-101,0.0,119.95,Nike,4.3,10,True,False,Zoom,Mid
+298,Nike Air Force Max II,AV6243-400,0.0,139.95,Nike,4.5,2,True,False,Air Force,Premium
+299,Nike Air Max 270 React,CT2535-001,149.95,89.97,Nike,0.0,0,False,True,Air Max,Mid
+300,Nike Mercurial Superfly 7 Academy MDS IC,BQ5430-401,89.95,62.970000000000006,Nike,0.0,0,False,True,Mercurial,Mid
+301,Nike Air Max 1 Print,AQ0927-100,0.0,129.95,Nike,0.0,0,False,False,Air Max,Premium
+302,Nike Air Max 97 SE,AQ4126-100,159.95,127.97,Nike,4.5,2,True,True,Air Max,Premium
+303,NikeCourt Air Zoom Resistance,918194-003,69.95,55.97,Nike,2.5,6,True,True,Zoom,Budget
+304,Nike Phantom Venom Club IC,AO0578-717,49.95,34.97,Nike,0.0,0,False,True,Phantom,Budget
+305,Nike Benassi JDI SE,CK0986-002,29.95,20.97,Nike,0.0,0,False,True,Benassi,Budget
+306,Nike Mercurial Superfly 7 Elite MDS FG,BQ5469-703,0.0,249.95,Nike,5.0,1,True,False,Mercurial,Luxury
+308,Nike Air VaporMax 360,CT5063-100,0.0,189.95,Nike,0.0,0,False,False,VaporMax,Premium
+309,Nike Solarsoft,488161-602,0.0,15.950000000000001,Nike,3.8,5,True,False,Other,Budget
+310,Air Jordan 11 Retro Low,528895-003,169.95,118.97,Nike,4.4,25,True,True,Jordan,Mid
+311,Nike Zoom Fly 3 Premium,CD4570-300,0.0,149.95,Nike,5.0,3,True,False,Zoom,Premium
+312,Nike Zoom Gravity,BQ3203-007,79.95,63.96999999999999,Nike,3.7,18,True,True,Zoom,Mid
+313,Nike MX-720-818,CU3013-070,0.0,159.95,Nike,0.0,0,False,False,MX,Premium
+314,Nike Mercurial Vapor 13 Elite SE FG,CD6720-808,0.0,219.95,Nike,0.0,0,False,False,Mercurial,Luxury
+315,Nike Air Max 720 BETRUE,CJ5472-900,0.0,159.95,Nike,5.0,1,True,False,Air Max,Premium
+316,Nike Air Force 1 Mid '07,315123-111,0.0,75.95,Nike,4.5,13,True,False,Air Force,Mid
+317,Nike Air Max 2017,849559-004,0.0,159.95,Nike,2.9,71,True,False,Air Max,Premium
+318,Nike EXP-X14 SE,AO3095-100,0.0,119.95,Nike,5.0,2,True,False,Other,Mid
+319,NikeCourt Lite 2,AR8836-009,0.0,49.95,Nike,0.0,0,False,False,Court,Budget
+320,Air Max 200 20,CT5062-100,0.0,109.94999999999999,Nike,0.0,0,False,False,Air Max,Mid
+321,Nike x Undercover Air Max 720,CN2408-001,0.0,169.95,Nike,4.0,3,True,False,Air Max,Premium
+322,Air Jordan 13 Retro,414571-030,0.0,159.95,Nike,3.9,34,True,False,Jordan,Premium
+323,Nike Cortez '72 S.D.,CJ2586-100,79.95,47.97,Nike,4.4,9,True,True,Other,Budget
+324,Nike Xarr,BQ5240-200,129.95,90.97,Nike,4.8,4,True,True,Other,Mid
+325,Nike Air Max 97 On Air Jasmine Lasode,CI1504-100,169.95,135.97,Nike,0.0,0,False,True,Air Max,Premium
+326,Nike Air Force 1 GORE-TEX ®,CK2630-700,129.95,90.97,Nike,4.1,18,True,True,Air Force,Mid
+327,Kyrie 6 EP 'Chinese New Year',CD5029-001,0.0,109.94999999999999,Nike,5.0,1,True,False,NBA,Mid
+328,Nike Fly.By Mid,CD0189-001,0.0,44.95,Nike,0.0,0,False,False,Other,Budget
+329,Nike Zoom KD12,CK1195-101,0.0,129.95,Nike,5.0,1,True,False,Zoom,Premium
+330,Nike Mercurial Vapor 13 Academy MDS MG,CJ1292-401,74.95,52.46999999999999,Nike,0.0,0,False,True,Mercurial,Budget
+332,Nike Epic React Flyknit 2,BQ8928-011,129.95,103.97000000000001,Nike,4.1,72,True,True,React,Mid
+333,Nike MX-720-818,BV5841-800,0.0,159.95,Nike,4.0,1,True,False,MX,Premium
+335,Nike Air Streak Lite,CD4387-100,0.0,89.95,Nike,5.0,1,True,False,Air,Mid
+337,Nike Air VaporMax LX,BV1712-001,169.95,118.97,Nike,0.0,0,False,True,VaporMax,Mid
+338,Nike Wildhorse 6,BV7106-400,0.0,99.95,Nike,4.7,3,True,False,Other,Mid
+339,Nike Air Zoom Pegasus 36,AQ2210-002,0.0,99.95,Nike,4.4,19,True,False,Pegasus,Mid
+340,Nike Air Zoom Wildhorse 5,AQ2222-200,0.0,89.95,Nike,5.0,6,True,False,Zoom,Mid
+341,Nike Air Max 720 Waves,BQ4430-400,159.95,111.97,Nike,5.0,4,True,True,Air Max,Mid
+342,Nike Benassi JDI BETRUE,CD2717-001,0.0,44.95,Nike,4.3,3,True,False,Benassi,Budget
+343,Kyrie 4,943806-602,0.0,109.94999999999999,Nike,4.1,19,True,False,NBA,Mid
+344,Air Jordan 5 Retro,CN2932-100,0.0,189.95,Nike,4.6,8,True,False,Jordan,Premium
+345,Nike Flex 2020 RN,CI9994-001,0.0,69.95,Nike,0.0,0,False,False,Flex,Mid
+346,Nike Drop-Type Premium,CN6916-100,0.0,69.95,Nike,4.0,6,True,False,Other,Mid
+347,Jordan Modero 2 VP,CU2708-901,0.0,44.95,Nike,0.0,0,False,False,Jordan,Budget
+348,Nike React Metcon,BQ6044-100,0.0,129.95,Nike,3.9,10,True,False,React,Premium
+349,Nike Joyride Dual Run,CD4365-003,109.94999999999999,76.97,Nike,4.3,3,True,True,Joyride,Mid
+350,Nike Classic Cortez,749571-154,0.0,65.95,Nike,4.2,5,True,False,Other,Mid
+351,Nike React Element 55 Premium,CI3835-002,119.95,71.97,Nike,5.0,1,True,True,React,Mid
+352,Nike Mercurial Vapor 13 Academy MDS TF,CJ1306-401,74.95,52.46999999999999,Nike,0.0,0,False,True,Mercurial,Budget
+353,Jordan 'Why Not?' Zer0.2 SE,CW6565-900,0.0,119.95,Nike,0.0,0,False,False,Jordan,Mid
+354,Nike Joyride CC,AO1742-004,119.95,83.97,Nike,5.0,4,True,True,Joyride,Mid
+355,Nike Tiempo Legend 8 Club TF,AT6109-606,0.0,44.95,Nike,0.0,0,False,False,Tiempo,Budget
+356,Nike Phantom Vision 2 Academy Dynamic Fit TF,CD4172-606,0.0,84.95,Nike,0.0,0,False,False,Phantom,Mid
+357,Nike Zoom Fly Flyknit,AR4561-200,0.0,159.95,Nike,4.2,42,True,False,Zoom,Premium
+358,Nike Air Max 98 SE,CD0132-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+359,Nike Air Max Tailwind IV SP,BV1357-003,159.95,95.97,Nike,3.0,5,True,True,Air Max,Mid
+360,Jordan Proto-Lyte,AT3381-008,79.95,63.96999999999999,Nike,2.4,5,True,True,Jordan,Mid
+361,Nike Mercurial Superfly 7 Academy TF,AT7978-414,84.95,59.47,Nike,5.0,1,True,True,Mercurial,Budget
+362,Nike x Hawkins High Cortez,CJ6106-100,0.0,99.95,Nike,5.0,1,True,False,Other,Mid
+363,Nike Epic Phantom React Flyknit Icon Clash,CK0089-100,139.95,97.97,Nike,0.0,0,False,True,React,Mid
+364,Nike Air Max 2090,CT7695-401,0.0,119.95,Nike,4.8,4,True,False,Air Max,Mid
+365,Nike Phantom Vision Academy Dynamic Fit MG,AO3258-080,84.95,59.47,Nike,4.0,5,True,True,Phantom,Budget
+366,NikeCourt Air Max Vapor Wing MS,BQ0129-106,0.0,64.95,Nike,3.5,2,True,False,Air Max,Mid
+367,LeBron x John Elliott Icon,AQ0114-101,0.0,199.95,Nike,4.8,6,True,False,NBA,Premium
+368,Nike Air Max 270 Flyknit,AO1023-005,0.0,159.95,Nike,4.4,10,True,False,Air Max,Premium
+369,Air Jordan 13 Retro Chinese New Year,CW4409-100,0.0,199.95,Nike,5.0,1,True,False,Jordan,Premium
+370,Nike Zoom Pegasus Turbo Shield,BQ1896-002,179.95,125.97,Nike,4.1,11,True,True,Pegasus,Premium
+371,Nike Air Wildwood ACG,AO3116-004,89.95,53.97,Nike,3.4,7,True,True,Air,Budget
+372,Nike Air Max 720,CI3870-100,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+373,LeBron 16 Low,CI2668-004,139.95,111.97,Nike,4.7,17,True,True,NBA,Mid
+374,Air Jordan 14 Retro,487471-003,179.95,143.97,Nike,4.2,12,True,True,Jordan,Premium
+375,Nike Air Force 1 Type-2,CT2584-100,0.0,119.95,Nike,0.0,0,False,False,Air Force,Mid
+376,Nike Free RN Flyknit 3.0,AQ5708-201,109.94999999999999,65.97,Nike,4.1,13,True,True,Free,Mid
+378,Nike Air Zoom Pegasus 36 Trail,AR5676-401,0.0,109.94999999999999,Nike,4.2,9,True,False,Pegasus,Mid
+379,Nike Tiempo Legend 8 Club IC,AT6110-004,44.95,31.47,Nike,2.0,1,True,True,Tiempo,Budget
+380,Nike Flex TR 9,AQ7491-008,0.0,54.949999999999996,Nike,2.9,8,True,False,Flex,Budget
+381,Nike Epic Phantom React,CI1291-400,139.95,83.97,Nike,5.0,3,True,True,React,Mid
+382,Nike Metcon 5 AMP,CN5455-160,0.0,119.95,Nike,4.5,2,True,False,Metcon,Mid
+383,Nike SB Air Zoom Bruin Edge,CD5036-100,0.0,79.95,Nike,5.0,1,True,False,Zoom,Mid
+384,Nike ISPA Air Max 720,CQ6278-001,0.0,179.95,Nike,0.0,0,False,False,Air Max,Premium
+385,Nike x Undercover React Presto,CU3459-200,0.0,159.95,Nike,5.0,1,True,False,React,Premium
+386,Nike Vandalised,BQ3610-100,109.94999999999999,76.97,Nike,0.0,0,False,True,Other,Mid
+387,Nike Signal D/MS/X,AT5303-100,109.94999999999999,76.97,Nike,2.7,3,True,True,Other,Mid
+388,Nike Air Max 720 (OBJ),CK2531-001,169.95,135.97,Nike,5.0,5,True,True,Air Max,Premium
+389,Nike Vandalised LX,BQ3611-100,109.94999999999999,87.97,Nike,5.0,1,True,True,Other,Mid
+390,Nike Canyon,CV5515-001,0.0,59.95,Nike,0.0,0,False,False,Other,Budget
+391,Nike Flex RN 2019,AQ7487-201,0.0,69.95,Nike,3.8,6,True,False,Flex,Mid
+392,Nike Free RN 5.0,AQ1289-003,79.95,55.97,Nike,3.9,25,True,True,Free,Budget
+394,Nike Air Max 90 NS SE,881105-800,99.95,79.97,Nike,5.0,2,True,True,Air Max,Mid
+396,Nike React Vision,CI7523-002,0.0,109.94999999999999,Nike,4.3,3,True,False,React,Mid
+397,Nike Air Max 2090,CT7698-600,0.0,119.95,Nike,5.0,2,True,False,Air Max,Mid
+398,Nike Air Max Dia Winter,BQ9665-301,0.0,109.94999999999999,Nike,4.4,5,True,False,Air Max,Mid
+400,Nike Zoom Pegasus Turbo 2,BV7766-100,159.95,127.97,Nike,2.7,3,True,True,Pegasus,Premium
+402,Nike Kawa Shower,832655-001,0.0,15.950000000000001,Nike,0.0,0,False,False,Other,Budget
+403,Nike Air VaporMax 360,CK2719-400,0.0,189.95,Nike,2.2,5,True,False,VaporMax,Premium
+404,Air Jordan 1 Mid,554724-050,0.0,99.95,Nike,0.0,0,False,False,Jordan,Mid
+406,Nike Air Max FF 720,AO3189-600,189.95,132.97,Nike,3.5,6,True,True,Air Max,Premium
+408,Nike Joyride Run Flyknit,AQ2731-500,149.95,119.97,Nike,4.4,26,True,True,Flyknit,Mid
+409,Nike Odyssey React Flyknit 2,AH1016-602,99.95,59.97,Nike,3.4,26,True,True,React,Budget
+410,Nike Joyride Optik,AJ6844-007,159.95,111.97,Nike,0.0,0,False,True,Joyride,Mid
+411,Nike React Element 55 SE,CN3591-002,0.0,119.95,Nike,5.0,1,True,False,React,Mid
+412,Nike Air Max Dia LX,CI1214-004,99.95,79.97,Nike,1.0,1,True,True,Air Max,Mid
+414,Nike Benassi,343880-090,0.0,24.95,Nike,4.1,33,True,False,Benassi,Budget
+415,Nike Zoom KD12 'YouTube',CQ7731-900,129.95,103.97000000000001,Nike,4.6,5,True,True,Zoom,Mid
+416,Nike Air Force 1 React,CD4366-002,0.0,99.95,Nike,4.8,4,True,False,Air Force,Mid
+417,Nike Air Max 90,CI5646-200,119.95,95.97,Nike,4.8,5,True,True,Air Max,Mid
+418,Nike Air Zoom Pegasus 36,CD4573-001,0.0,109.94999999999999,Nike,5.0,2,True,False,Pegasus,Mid
+419,Nike Air Max 98 NRG,BQ5613-001,159.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+420,Nike Zoom Fly 3,AT8241-002,0.0,139.95,Nike,4.8,12,True,False,Zoom,Premium
+421,Kyrie 6 EP,BQ4631-100,0.0,109.94999999999999,Nike,0.0,0,False,False,NBA,Mid
+423,Nike Air Max Tailwind IV,AQ2567-002,139.95,83.97,Nike,5.0,1,True,True,Air Max,Mid
+424,Nike Potential 3,844127-108,0.0,44.95,Nike,5.0,1,True,False,Other,Budget
+425,Nike Mercurial Vapor 13 Academy IC,AT7993-414,74.95,52.46999999999999,Nike,0.0,0,False,True,Mercurial,Budget
+426,Nike x Olivia Kim Air Max 98,CK3309-001,159.95,111.97,Nike,4.5,2,True,True,Air Max,Mid
+427,NikeCourt Royale,749747-010,44.95,35.97,Nike,1.5,2,True,True,Court,Budget
+428,Nike Air Huarache,634835-108,0.0,89.95,Nike,4.5,63,True,False,Air,Mid
+433,Nike Air Force 1 Mid '07,366731-100,78.95,63.17,Nike,3.8,4,True,True,Air Force,Mid
+434,Nike Metcon 5 AMP,CD3398-063,0.0,119.95,Nike,0.0,0,False,False,Metcon,Mid
+435,Nike Air Max 270 React,CT5064-001,0.0,139.95,Nike,0.0,0,False,False,Air Max,Premium
+436,Nike Air Force 1 '07 Premium,BQ4424-700,109.94999999999999,76.97,Nike,5.0,1,True,True,Air Force,Mid
+438,Nike Air Max 98 LX,AV4417-002,159.95,127.97,Nike,4.5,6,True,True,Air Max,Premium
+440,Nike Phantom Venom Academy TF,AO0571-606,0.0,74.95,Nike,5.0,1,True,False,Phantom,Mid
+444,Nike Air Max 270 React,AT6174-004,129.95,77.97,Nike,4.2,30,True,True,Air Max,Mid
+446,Nike SB Zoom Stefan Janoski Canvas RM,AR7718-001,0.0,69.95,Nike,3.4,5,True,False,Zoom,Mid
+447,Nike Flex Contact 3,AQ7488-004,59.95,41.97,Nike,0.0,0,False,True,Flex,Budget
+448,Jordan 'Why Not?' Zer0.2 SE PF,AV4126-002,0.0,109.94999999999999,Nike,3.0,2,True,False,Jordan,Mid
+449,Nike Shox TL Nova SP,CK2085-002,0.0,149.95,Nike,5.0,1,True,False,Other,Premium
+450,Nike Air Max 90,CU0675-300,139.95,97.97,Nike,5.0,1,True,True,Air Max,Mid
+451,Nike Benassi JDI Floral,618919-031,29.95,23.97,Nike,4.1,8,True,True,Benassi,Budget
+454,Nike Epic React Flyknit 2,BQ8927-102,129.95,103.97000000000001,Nike,4.2,45,True,True,React,Mid
+456,Nike Air Max 97,921826-016,169.95,118.97,Nike,4.3,17,True,True,Air Max,Mid
+457,Nike x Olivia Kim Air Force 1 '07,CK3314-400,0.0,99.95,Nike,5.0,1,True,False,Air Force,Mid
+459,Nike M2K Tekno,BQ3378-002,89.95,71.97,Nike,3.0,1,True,True,Other,Mid
+460,Nike React City,BV7754-001,139.95,97.97,Nike,0.0,0,False,True,React,Mid
+461,Nike Epic Phantom React Flyknit,BV0415-300,129.95,77.97,Nike,4.9,17,True,True,React,Mid
+463,Air Jordan 11 Low,AR5149-005,169.95,135.97,Nike,0.0,0,False,True,Jordan,Premium
+465,Nike Daybreak,CQ7619-700,0.0,99.95,Nike,0.0,0,False,False,Other,Mid
+466,Nike Mercurial Superfly 7 Elite FG,AQ4174-049,0.0,229.95000000000002,Nike,4.3,8,True,False,Mercurial,Luxury
+467,Nike Air Max 90 Essential,AJ1285-101,0.0,89.95,Nike,4.0,9,True,False,Air Max,Mid
+468,Nike Air Zoom Pegasus 36 Premium Rise,AV6259-500,109.94999999999999,65.97,Nike,5.0,5,True,True,Pegasus,Mid
+469,Nike Tiempo Legend 8 Academy MG,AT5292-004,64.95,45.47,Nike,2.0,1,True,True,Tiempo,Budget
+470,Nike Tanjun,812654-011,47.95,33.57,Nike,4.2,25,True,True,Other,Budget
+471,Nike Air Max Triax 96 SP,CT5543-300,0.0,129.95,Nike,4.0,1,True,False,Air Max,Premium
+473,Nike Air Max 2090,CU9174-600,0.0,139.95,Nike,5.0,1,True,False,Air Max,Premium
+474,LeBron 16 Low,CI2668-004,139.95,111.97,Nike,0.0,0,False,True,NBA,Mid
+475,Nike Zoom Rival Fly 2,CJ0509-001,0.0,79.95,Nike,0.0,0,False,False,Zoom,Mid
+476,Nike x Olivia Kim Air Mowabb,CK3312-001,159.95,111.97,Nike,0.0,0,False,True,Air,Mid
+477,Nike Offcourt SE,CT0624-100,0.0,29.95,Nike,0.0,0,False,False,Other,Budget
+478,Nike Zoom Pegasus Turbo Shield,CJ9712-001,179.95,125.97,Nike,4.5,4,True,True,Pegasus,Premium
+479,Nike Air Max 97,CT1549-001,159.95,95.97,Nike,0.0,0,False,True,Air Max,Mid
+480,Nike Air Max 720 SE,CD0683-600,0.0,159.95,Nike,3.0,1,True,False,Air Max,Premium
+481,Nike Revolution 5 FlyEase,BQ3212-600,0.0,36.95,Nike,4.5,6,True,False,Other,Budget
+482,Nike Classic Cortez,807471-101,0.0,69.95,Nike,4.5,34,True,False,Other,Mid
+484,Nike Air Max 200,AT6175-100,99.95,59.97,Nike,4.6,16,True,True,Air Max,Budget
+485,Nike Air Max 270,AH6789-023,0.0,139.95,Nike,3.9,63,True,False,Air Max,Premium
+486,Nike Mercurial Vapor 13 Academy TF,AT7996-414,74.95,52.46999999999999,Nike,0.0,0,False,True,Mercurial,Budget
+487,Nike SFB Gen 2 20cm (approx.),922474-001,0.0,139.95,Nike,3.8,15,True,False,Other,Premium
+488,Nike Air Max Dia,CI3898-200,0.0,89.95,Nike,5.0,3,True,False,Air Max,Mid
+489,Nike SB Alleyoop,CJ0882-001,0.0,64.95,Nike,0.0,0,False,False,SB,Mid
+490,Nike Zoom Rise,BQ5467-101,119.95,83.97,Nike,4.0,2,True,True,Zoom,Mid
+491,Nike Phantom Vision Academy Dynamic Fit IC,AO3267-080,84.95,67.97,Nike,0.0,0,False,True,Phantom,Mid
+493,Nike Air Max Bella TR 2,AQ7492-010,0.0,64.95,Nike,4.3,12,True,False,Air Max,Mid
+494,Nike Air Zoom Terra Kiger 6,CJ0220-400,0.0,109.94999999999999,Nike,5.0,2,True,False,Zoom,Mid
+496,Nike Air Force 1 SP,CQ6566-700,0.0,129.95,Nike,4.7,3,True,False,Air Force,Premium
+497,Nike Zoom Pegasus Turbo,AJ4115-060,0.0,159.95,Nike,3.6,20,True,False,Pegasus,Premium
+498,Nike Free RN 5.0,AQ1316-500,79.95,47.97,Nike,4.2,13,True,True,Free,Budget
+500,Nike Air Zoom Pegasus 36,BV5740-101,109.94999999999999,65.97,Nike,0.0,0,False,True,Pegasus,Mid
+501,Nike Air Max Tailwind IV SE,CJ9681-001,149.95,104.97000000000001,Nike,0.0,0,False,True,Air Max,Mid
+502,Nike Air VaporMax 2019 Premium,AT6817-300,169.95,135.97,Nike,5.0,1,True,True,VaporMax,Premium
+503,NikeCourt Air Zoom Vapor Cage 4,CD0431-107,0.0,129.95,Nike,4.7,3,True,False,Zoom,Premium
+504,Air Jordan 1 Nova XX,AV4052-116,0.0,104.95000000000002,Nike,5.0,1,True,False,Jordan,Mid
+505,Nike Air Max Tailwind IV,CK4122-100,159.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+506,Nike Flex RN 2019,AQ7483-001,0.0,69.95,Nike,4.5,2,True,False,Flex,Mid
+508,Nike Free X Metcon 2,CD8526-446,0.0,99.95,Nike,3.0,7,True,False,Metcon,Mid
+509,Nike Mercurial Vapor 13 Academy MDS MG,CJ1292-703,0.0,74.95,Nike,0.0,0,False,False,Mercurial,Mid
+510,Nike Air Max Impact,CI1396-004,0.0,79.95,Nike,5.0,1,True,False,Air Max,Mid
+511,Nike Classic Cortez,807471-103,0.0,69.95,Nike,4.5,34,True,False,Other,Mid
+512,Nike Air Max 90 Premium,CJ1794-600,0.0,119.95,Nike,5.0,2,True,False,Air Max,Mid
+513,Nike Renew Run,CK6360-001,0.0,69.95,Nike,4.8,5,True,False,Renew,Mid
+514,Nike Air Max 270 Special Edition,CQ6549-001,0.0,149.95,Nike,5.0,1,True,False,Air Max,Premium
+516,Nike Air Force 1 Sage Low,AR5339-002,0.0,89.95,Nike,4.5,36,True,False,Air Force,Mid
+517,Nike Air Max Triax 96,CD2053-105,0.0,109.94999999999999,Nike,5.0,2,True,False,Air Max,Mid
+522,Nike Air Max 90,CI7395-100,0.0,109.94999999999999,Nike,0.0,0,False,False,Air Max,Mid
+523,Nike Air VaporMax Flyknit 2 LXX,AT5673-700,0.0,365.0,Nike,0.0,0,False,False,Flyknit,Luxury
+525,Nike Free RN 5.0 AW,BV7775-100,89.95,53.97,Nike,5.0,1,True,True,Free,Budget
+526,Air Jordan 1 Jester XX Low Laced,CI7815-602,0.0,79.95,Nike,5.0,2,True,False,Jordan,Mid
+527,Nike Metcon 5 Premium,CJ0818-146,0.0,119.95,Nike,0.0,0,False,False,Metcon,Mid
+528,Nike Free RN 5.0,CI1289-100,89.95,53.97,Nike,0.0,0,False,True,Free,Budget
+529,Nike Zoom Rival Fly,CD7287-003,79.95,47.97,Nike,0.0,0,False,True,Zoom,Budget
+533,PG 3,AO2607-401,89.95,71.97,Nike,4.0,19,True,True,NBA,Mid
+534,Nike Free TR Ultra,AO3424-001,79.95,63.96999999999999,Nike,1.0,1,True,True,Free,Mid
+536,Nike MX-720-818,BQ5972-001,159.95,111.97,Nike,0.0,0,False,True,MX,Mid
+537,Air Jordan 7 Retro,313358-006,159.95,111.97,Nike,4.8,4,True,True,Jordan,Mid
+540,Nike Epic Phantom React,CI1290-100,139.95,83.97,Nike,5.0,2,True,True,React,Mid
+541,Nike Air Max 720 SE,BV6484-002,159.95,111.97,Nike,0.0,0,False,True,Air Max,Mid
+542,Nike Air Huarache Ultra,885118-001,89.95,71.97,Nike,4.6,12,True,True,Air,Mid
+543,Nike Wildhorse 6,BV7099-400,0.0,99.95,Nike,4.5,2,True,False,Other,Mid
+544,Nike Air Max 270 React SE,BV3387-400,0.0,139.95,Nike,0.0,0,False,False,Air Max,Premium
+548,Nike Air Max 2017,849560-001,0.0,159.95,Nike,3.5,18,True,False,Air Max,Premium
+549,Nike Flex RN 2018,AA7408-008,74.95,59.97,Nike,3.2,15,True,True,Flex,Budget
+550,NikeCourt Royale AC,BQ9138-601,44.95,31.47,Nike,5.0,1,True,True,Court,Budget
+551,Jordan Air Latitude 720,AV5187-602,159.95,127.97,Nike,5.0,1,True,True,Jordan,Premium
+553,Nike Air Force 1 '07 SE,AA0287-002,84.95,67.97,Nike,3.6,5,True,True,Air Force,Mid
+554,Nike Zoom Fly 3 Premium,BV7756-001,149.95,104.97000000000001,Nike,5.0,1,True,True,Zoom,Mid
+557,Nike Air VaporMax 2019,AR6632-603,159.95,95.97,Nike,3.5,11,True,True,VaporMax,Mid
+558,Nike Air Zoom Structure 22,AA1640-002,0.0,99.95,Nike,4.3,14,True,False,Zoom,Mid
+559,NikeCourt Air Zoom Vapor X,AA8027-109,0.0,149.95,Nike,4.0,3,True,False,Zoom,Premium
+560,LeBron Soldier 13 SFG,AR4225-100,119.95,95.97,Nike,4.2,6,True,True,NBA,Mid
+562,Nike React Element 55 Premium,CD6964-002,119.95,71.97,Nike,4.0,1,True,True,React,Mid
+563,Nike Zoom Pegasus Turbo 2,CN7383-300,0.0,159.95,Nike,0.0,0,False,False,Pegasus,Premium
+564,Nike Air Max 97,CI7388-600,0.0,169.95,Nike,5.0,1,True,False,Air Max,Premium
+565,Nike Free RN Flyknit 3.0,BV7782-001,119.95,71.97,Nike,0.0,0,False,True,Free,Mid
+566,Nike Air Force 1 GORE-TEX ®,CK2630-001,129.95,103.97000000000001,Nike,4.1,18,True,True,Air Force,Mid
+567,Nike Air Zoom Pegasus 36,CN6867-001,0.0,109.94999999999999,Nike,0.0,0,False,False,Pegasus,Mid
+570,Nike Metcon 4 XD Patch,BQ7978-001,0.0,119.95,Nike,0.0,0,False,False,Metcon,Mid
+571,NikeCourt Royale SL,844896-002,39.95,31.97,Nike,0.0,0,False,True,Court,Budget
+572,Nike React Metcon,BQ6046-010,0.0,129.95,Nike,3.7,3,True,False,React,Premium
+574,Nike ZoomX Vista Grind SP,CT5770-300,0.0,149.95,Nike,5.0,1,True,False,Zoom,Premium
+575,Nike Air Max 90,CU3004-176,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+576,Nike Air Max 270 React,CI3899-200,0.0,129.95,Nike,4.3,6,True,False,Air Max,Premium
+577,Nike Zoom Fly SP Fast,BV0389-001,169.95,101.97,Nike,0.0,0,False,True,Zoom,Mid
+578,Nike Drop-Type,CQ0989-002,0.0,59.95,Nike,4.0,1,True,False,Other,Budget
+579,Nike Air Max 98 SE,CI7379-400,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+580,Nike Zoom Rival Fly 2,CN6881-300,0.0,79.95,Nike,0.0,0,False,False,Zoom,Mid
+581,Nike MX-720-818,CI3869-500,0.0,159.95,Nike,0.0,0,False,False,MX,Premium
+582,Nike Blazer Low LE,AV9370-001,69.95,55.97,Nike,5.0,2,True,True,Blazer,Budget
+583,Nike Zoom Pegasus Turbo 2 Rise,BV1134-001,159.95,95.97,Nike,4.0,5,True,True,Pegasus,Mid
+584,Nike Air Max 98,CT1531-001,0.0,159.95,Nike,0.0,0,False,False,Air Max,Premium
+585,Nike Air Max Dia SE,AR7410-603,99.95,59.97,Nike,4.8,20,True,True,Air Max,Budget
+586,Nike Mercurial Superfly 7 Academy MDS TF,BQ5435-401,0.0,89.95,Nike,0.0,0,False,False,Mercurial,Mid
+587,Nike Tanjun,812655-011,49.95,39.97,Nike,4.0,53,True,True,Other,Budget
+588,Nike Air Max 90,325213-139,94.95,75.97,Nike,3.6,5,True,True,Air Max,Mid
+590,Nike Odyssey React,AO9820-001,119.95,95.97,Nike,4.1,8,True,True,React,Mid
+591,Nike Legend React,AA1626-602,0.0,87.95,Nike,2.7,19,True,False,React,Mid
+592,Nike Air Zoom Winflo 6,AQ8228-102,0.0,79.95,Nike,3.7,10,True,False,Zoom,Mid
+593,Nike Air Zoom Vomero 14,AH7858-010,119.95,95.97,Nike,2.8,11,True,True,Zoom,Mid
+594,Nike Air VaporMax SE,CI1246-302,169.95,101.97,Nike,3.7,3,True,True,VaporMax,Mid
+596,NikeCourt Air Max Wildcard,AO7353-105,0.0,79.95,Nike,4.5,2,True,False,Air Max,Mid
+597,Nike Air Max 98,CI3709-001,0.0,169.95,Nike,4.0,1,True,False,Air Max,Premium
+599,NikeCourt Air Zoom Zero,AA8022-107,0.0,119.95,Nike,3.8,4,True,False,Zoom,Mid
+600,Nike x Olivia Kim Air Footscape,CK3321-100,129.95,90.97,Nike,0.0,0,False,True,Air,Mid
+601,Nike M2K Tekno,AO3108-018,0.0,89.95,Nike,4.0,13,True,False,Other,Mid
+604,Nike Air Max Dia NRG,CQ2503-900,109.94999999999999,76.97,Nike,4.3,3,True,True,Air Max,Mid
+606,Nike Air Max 720,AR9293-603,159.95,95.97,Nike,4.9,18,True,True,Air Max,Mid
+610,Nike Air Zoom Pegasus 36 FlyEase,BV0614-005,99.95,79.97,Nike,3.0,4,True,True,Pegasus,Mid
+611,Nike Daybreak,CQ7620-001,0.0,99.95,Nike,0.0,0,False,False,Other,Mid
+612,Nike P-6000 Icon Clash,BV1021-007,79.95,55.97,Nike,4.7,10,True,True,Other,Budget
+616,Nike Air Max Bella TR 3,CJ0842-600,0.0,64.95,Nike,0.0,0,False,False,Air Max,Mid
+617,Nike Blazer Low Suede,AV9373-002,69.95,55.97,Nike,0.0,0,False,True,Blazer,Budget
+618,Nike Air Max 95 Premium,807443-503,169.95,135.97,Nike,3.7,3,True,True,Air Max,Premium
+619,Nike Pre-Love O.X.,AO3166-300,0.0,74.95,Nike,5.0,3,True,False,Other,Mid
+622,Nike Air Force 1 '07 SE,CI3446-001,0.0,79.95,Nike,5.0,1,True,False,Air Force,Mid
+623,Nike Zoom Pegasus Turbo XX,AR4347-600,169.95,135.97,Nike,1.0,1,True,True,Pegasus,Premium
+625,Nike Air Max 200,CI3867-001,0.0,99.95,Nike,0.0,0,False,False,Air Max,Mid
+628,Air Jordan 1 Jester XX Low Laced SE,CQ0278-200,89.95,71.97,Nike,0.0,0,False,True,Jordan,Mid
+629,Nike Mercurial Vapor 13 Club MG,AT7968-606,0.0,49.95,Nike,0.0,0,False,False,Mercurial,Budget
+630,Nike Zoom Pegasus Turbo 2 Special Edition,BV7757-500,159.95,127.97,Nike,5.0,1,True,True,Pegasus,Premium
+632,Air Jordan 5 Retro,CD2722-001,0.0,159.95,Nike,3.3,3,True,False,Jordan,Premium
+635,Nike Tiempo Legend 8 Academy TF,AT6100-606,0.0,64.95,Nike,0.0,0,False,False,Tiempo,Mid
+637,Nike React Metcon AMP,CT9155-063,0.0,139.95,Nike,3.0,1,True,False,React,Premium
+638,Air Jordan 8 Retro,CI1236-100,159.95,127.97,Nike,5.0,1,True,True,Jordan,Premium
+641,Nike Air Max 98,AH6799-300,0.0,169.95,Nike,4.0,4,True,False,Air Max,Premium
+642,Nike P-6000 SE,CJ9585-600,89.95,62.970000000000006,Nike,0.0,0,False,True,Other,Mid
